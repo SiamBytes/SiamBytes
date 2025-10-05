@@ -56,9 +56,9 @@
 ### 🏆 Certifications  
 
 - 🎖️ [HackerRank – Java Basic](https://www.hackerrank.com/certificates/5566a0e0346c)  
-- 📜 Great Learning – Software Testing Fundamentals  
-- 🧩 Google – Cybersecurity Essentials  
-- 🤖 AI QA Automation – In Progress  
+- 📜 [Great Learning – Project Management Support](https://www.mygreatlearning.com/certificate/SAMTTNTE) 
+- 🧩 [Great Learning – Video Marketing](https://www.mygreatlearning.com/certificate/LLFPIVJZ)   
+- 🤖 [Google – In Progress] 
 
 ---
 
