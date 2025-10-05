@@ -55,7 +55,7 @@
 
 ### 🏆 Certifications  
 
-- 🎖️ [HackerRank – Java Basic](https://www.hackerrank.com/certificates)  
+- 🎖️ [HackerRank – Java Basic](https://www.hackerrank.com/certificates/5566a0e0346c)  
 - 📜 Great Learning – Software Testing Fundamentals  
 - 🧩 Google – Cybersecurity Essentials  
 - 🤖 AI QA Automation – In Progress  
@@ -65,7 +65,7 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/siambytes"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/md-siam-hossain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/SiamBytes"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:siam.devbytes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
