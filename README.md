@@ -2,7 +2,7 @@
 <h3 align="center">🚀 QA Automation Engineer | Java | Selenium | Cucumber | API | SQL | AI-QA Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/SIAMSDET"><img src="https://komarev.com/ghpvc/?username=SIAMSDET&label=Profile%20views&color=0e75b6&style=flat" alt="SIAMSDET" /></a>
+  <a href="https://github.com/SIAMSDET"><img src="https://komarev.com/ghpvc/?username=SIAMSDET&label=Profile%200views&color=0e75b6&style=flat" alt="SIAMSDET" /></a>
 </p>
 
 ---
