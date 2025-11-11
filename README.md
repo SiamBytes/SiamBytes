@@ -8,11 +8,11 @@
 ---
 
 ### 🧩 About Me  
-- 💼 Passionate **QA Engineer** with hands-on experience in **Automation Testing**, **Selenium WebDriver**, **Cucumber BDD**, and **API Testing**.  
-- 🧠 Currently expanding into **AI + QA Automation** and **Cybersecurity**.  
-- 💻 Skilled in **Java | Maven | TestNG | Postman | Git | Jenkins | SQL**.  
-- 🌍 Based in **New York City**, available for **remote & onsite** roles.  
-- 🧾 Portfolio Project: [Amazon UI Testing Framework](https://github.com/SiamBytes/AmazonUITesting)  
+- Passionate **QA Engineer** with hands-on experience in **Automation Testing**, **Selenium WebDriver**, **Cucumber BDD**, and **API Testing**.  
+- Currently expanding into **AI + QA Automation** and **Cybersecurity**.  
+- Skilled in **Java | Maven | TestNG | Postman | Git | Jenkins | SQL**.  
+- Based in **New York City**, available for **remote & onsite** roles.  
+- Portfolio Project: [Amazon UI Testing Framework](https://github.com/SiamBytes/AmazonUITesting)  
 
 ---
 
