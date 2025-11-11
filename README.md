@@ -55,10 +55,10 @@
 
 ### 🏆 Certifications  
 
-- 🎖️ [HackerRank – Java Basic](https://www.hackerrank.com/certificates/5566a0e0346c)  
-- 📜 [Great Learning – Project Management Support](https://www.mygreatlearning.com/certificate/SAMTTNTE) 
-- 🧩 [Great Learning – Video Marketing](https://www.mygreatlearning.com/certificate/LLFPIVJZ)   
-- 🤖 [Google Cybersecurity Professional – In Progress] 
+-  [HackerRank – Java Basic](https://www.hackerrank.com/certificates/5566a0e0346c)  
+-  [Great Learning – Project Management Support](https://www.mygreatlearning.com/certificate/SAMTTNTE) 
+-  [Great Learning – Video Marketing](https://www.mygreatlearning.com/certificate/LLFPIVJZ)   
+-  [Google Cybersecurity Professional – In Progress] 
 
 ---
 
@@ -67,7 +67,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/md-siam-hossain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/SiamBytes"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:siam.devbytes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/SIAMSDET"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
+
 </p>
 
 ---
