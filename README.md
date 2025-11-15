@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-siam-hossain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/SIAMSDET"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://siamqa.com" target="_blank"><img src="https://img.shields.io/badge/Website-siamqa.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/></a>
   <a href="https://www.hackerrank.com/profile/SIAMSDET"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
 </p>
 
